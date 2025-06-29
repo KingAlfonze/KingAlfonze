@@ -1,4 +1,4 @@
-<h2 align="center">Greetings!  I'm King Alfonze Villegas Mangundayao 👋</h2>
+<h2 align="center">Greetings!  I'm King Alfonze 👋</h2>
 
 ###
 
@@ -8,11 +8,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm from the Philippines 🇵🇭<br><br>- 🔭 I’m currently a college student <br>- 📚 I'm currently learning ... C#, Python, HTML. CSS<br>- ⚡ In my free time, I stay idle online, watch some stuff, play some games...</p>
+<p align="left">From the 🇵🇭<br><br>- 🔭 Currently a college student <br>- 📚 I'm currently learning ... C#, Python, HTML. CSS<br>- ⚡ In my free time, I stay idle online, watch some stuff, play some games...</p>
 
 ###
 
@@ -46,6 +46,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats:</h3>
 
 ###
