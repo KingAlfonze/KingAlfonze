@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm King Alfonze Mangundayao (Personal Acc :D) 👋</h1>
 
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV2amVnYjY2a2N5MW40aW40M3JlNjYwYzN6dzJzZHNuaTZpZnJzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bhoRGJHLkcNUz7aKSn/giphy.gif" alt="Coding GIF" />
+  <img
+    height="180"
+    src="https://i.giphy.com/bhoRGJHLkcNUz7aKSn.gif"
+    alt="GIF"
+  />
 </div>
 
 # 💫 About Me:
@@ -25,8 +29,13 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV2amVnYjY2a2N5MW40aW40M3JlNjYwYzN6dzJzZHNuaTZpZnJzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vYd0nImci8nleLroNF/giphy.gif" alt="Coding GIF" />
+  <img
+    height="180"
+    src="https://i.giphy.com/vYd0nImci8nleLroNF.gif"
+    alt="Coding GIF"
+  />
 </div>
+
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=KingAlfonze&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
