@@ -9,6 +9,7 @@
 </div>
 
 # 💫 About Me:
+
 🔭 I’m currently working on something (js keeping myself busy and tryna learn something new)<br>🌱 I’m currently learning node.js<br>💬 Ask me about... well, i dunno.<br>⚡ Fun fact: I can play the saxophone :D
 
 # 💻 Tech Stack:
@@ -51,29 +52,45 @@
 
 <div data-importer="socials" align="center">
 
+  <!--X LINKIE-->
   <a href="https://x.com/paneuxchocolat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   
-  <a href="https://discord.com/users/819862949623496735" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-
-  <a href="https://www.instagram.com/yaboii.marfait/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-
-  <a href="https://www.facebook.com/kingalfonze.mangundayaohttps://www.facebook.com/kingalfonze.mangundayao" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  </a>
-
+  <!--Spotify LINKIE-->
   <a href="https://open.spotify.com/user/31pyfdvimvyvyoxcvpf4hicx25fy?si=cdc5ea6743b54ad4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="40" alt="spotify logo"  />
   </a>
 
+  <!--Steam LINKIE-->
+  <a href="https://steamcommunity.com/profiles/76561199780299826//" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=171A21&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="steam logo" />
+  </a>
+
+  <!--Discord LINKIE-->
+  <a href="https://discord.com/users/819862949623496735" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+
+   <!--LinkedIn LINKIE-->
   <a href="https://www.linkedin.com/in/king-alfonze-mangundayao-521430330/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 
+  <!--Facebook LINKIE-->
+  <a href="https://www.facebook.com/kingalfonze.mangundayaohttps://www.facebook.com/kingalfonze.mangundayao" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  </a>
+
+  <!--Instagram LINKIE-->
+  <a href="https://www.instagram.com/yaboii.marfait/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+
+  <div align="center">
+  <img height="180" src="my-octocat.png" alt="My Photo">
 </div>
+
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
