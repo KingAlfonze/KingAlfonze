@@ -57,6 +57,11 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   
+  <!--@Threads LINKIE-->
+  <a href="https://www.threads.com/@paneuxchocolat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="threads logo" />
+  </a>
+
   <!--Spotify LINKIE-->
   <a href="https://open.spotify.com/user/31pyfdvimvyvyoxcvpf4hicx25fy?si=cdc5ea6743b54ad4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="40" alt="spotify logo"  />
@@ -83,7 +88,7 @@
   </a>
 
   <!--Instagram LINKIE-->
-  <a href="https://www.instagram.com/yaboii.marfait/" target="_blank">
+  <a href="https://www.instagram.com/paneuxchocolat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 
