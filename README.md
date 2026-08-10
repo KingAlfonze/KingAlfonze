@@ -30,8 +30,15 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV2amVnYjY2a2N5MW40aW40M3JlNjYwYzN6dzJzZHNuaTZpZnJzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vYd0nImci8nleLroNF/giphy.gif" alt="Coding GIF" />
+<div>
+  <img 
+  height="180" 
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV2amVnYjY2a2N5MW40aW40M3JlNjYwYzN6dzJzZHNuaTZpZnJzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vYd0nImci8nleLroNF/giphy.gif" 
+  alt="GIF" 
+  />
+
+
+
 </div>
 
 <div align="center">
