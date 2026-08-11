@@ -1,16 +1,14 @@
 <h1 align="center">Hi there, I'm King Alfonze Mangundayao (Personal Acc :D) 👋</h1>
 
 <div align="center">
-  <img
-    height="180"
-    src="https://i.giphy.com/bhoRGJHLkcNUz7aKSn.gif"
-    alt="GIF"
-  />
+  <img height="180" src="https://i.giphy.com/bhoRGJHLkcNUz7aKSn.gif" alt="GIF"/>
 </div>
 
 # 💫 About Me:
+🔭 I’m currently working on something (js keeping myself busy and tryna learn something new)<br>
+🌱 I’m currently learning node.js<br>💬 Ask me about... well, i dunno.<br>
+⚡ Fun fact: I can play the saxophone :D
 
-🔭 I’m currently working on something (js keeping myself busy and tryna learn something new)<br>🌱 I’m currently learning node.js<br>💬 Ask me about... well, i dunno.<br>⚡ Fun fact: I can play the saxophone :D
 
 # 💻 Tech Stack:
 
@@ -25,7 +23,7 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 </div>
 
 # 📊 GitHub Stats:
@@ -97,9 +95,12 @@
   <a href="https://www.instagram.com/paneuxchocolat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-
+  
   <div align="center">
   <img height="180" src="my-octocat.png" alt="My Photo">
+
+  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  
 </div>
 
 </div>
