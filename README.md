@@ -7,7 +7,7 @@
 # 💫 About Me:
 🔭 I’m currently working on something (js keeping myself busy and tryna learn something new)<br>
 🌱 I’m currently learning node.js<br>💬 Ask me about... well, i dunno.<br>
-🎵 Die on This Hill<br>
+🎵 Earrings<br>
 ⚡ Fun fact: guess what...
 
 
