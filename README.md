@@ -6,7 +6,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on something (js keeping myself busy and tryna learn something new)<br>
-🌱 I’m currently learning node.js<br>💬 Ask me about... well, i dunno.<br>
+🌱 I’m currently learning node.js<br>
+💬 Ask me about... i don't know... anything?<br>
 🎵 Earrings<br>
 ⚡ Fun fact: guess what...
 
